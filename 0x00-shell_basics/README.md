@@ -1,1 +1,1 @@
-Absolute path of the current working directory
+shell permissions readme
