@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hello $current_user!"
+echo "Hello $(whoami)!"
+
